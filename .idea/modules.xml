@@ -9,7 +9,9 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/datestring/datestring.iml" filepath="$PROJECT_DIR$/.idea/modules/datestring/datestring.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/getCurrentAty/getCurrentAty.iml" filepath="$PROJECT_DIR$/.idea/modules/getCurrentAty/getCurrentAty.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/http/http.iml" filepath="$PROJECT_DIR$/.idea/modules/http/http.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/httppractice/httppractice.iml" filepath="$PROJECT_DIR$/.idea/modules/httppractice/httppractice.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/mediaplayer/mediaplayer.iml" filepath="$PROJECT_DIR$/.idea/modules/mediaplayer/mediaplayer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/parsejson/parsejson.iml" filepath="$PROJECT_DIR$/.idea/modules/parsejson/parsejson.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/thread/thread.iml" filepath="$PROJECT_DIR$/.idea/modules/thread/thread.iml" />
     </modules>
   </component>

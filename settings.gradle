@@ -1,1 +1,1 @@
-include ':getCurrentAty', ':datestring', ':mediaplayer', ':thread', ':contentresolver', ':contentprovider', ':databasetest', ':http'
+include ':getCurrentAty', ':datestring', ':mediaplayer', ':thread', ':contentresolver', ':contentprovider', ':databasetest', ':http', ':parsejson', ':httppractice'

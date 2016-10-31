@@ -14,7 +14,9 @@
             <option value="$PROJECT_DIR$/datestring" />
             <option value="$PROJECT_DIR$/getCurrentAty" />
             <option value="$PROJECT_DIR$/http" />
+            <option value="$PROJECT_DIR$/httppractice" />
             <option value="$PROJECT_DIR$/mediaplayer" />
+            <option value="$PROJECT_DIR$/parsejson" />
             <option value="$PROJECT_DIR$/thread" />
           </set>
         </option>
