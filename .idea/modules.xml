@@ -2,8 +2,15 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ProcessBar.iml" filepath="$PROJECT_DIR$/.idea/modules/ProcessBar.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MultiModule.iml" filepath="$PROJECT_DIR$/.idea/modules/MultiModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/contentprovider/contentprovider.iml" filepath="$PROJECT_DIR$/.idea/modules/contentprovider/contentprovider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/contentresolver/contentresolver.iml" filepath="$PROJECT_DIR$/.idea/modules/contentresolver/contentresolver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/databasetest/databasetest.iml" filepath="$PROJECT_DIR$/.idea/modules/databasetest/databasetest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/datestring/datestring.iml" filepath="$PROJECT_DIR$/.idea/modules/datestring/datestring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/getCurrentAty/getCurrentAty.iml" filepath="$PROJECT_DIR$/.idea/modules/getCurrentAty/getCurrentAty.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/http/http.iml" filepath="$PROJECT_DIR$/.idea/modules/http/http.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mediaplayer/mediaplayer.iml" filepath="$PROJECT_DIR$/.idea/modules/mediaplayer/mediaplayer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/thread/thread.iml" filepath="$PROJECT_DIR$/.idea/modules/thread/thread.iml" />
     </modules>
   </component>
 </project>

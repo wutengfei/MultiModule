@@ -1,1 +1,1 @@
-include ':app'
+include ':getCurrentAty', ':datestring', ':mediaplayer', ':thread', ':contentresolver', ':contentprovider', ':databasetest', ':http'
