@@ -1,23 +1,15 @@
 apply plugin: 'com.android.application'
 
 android {
-    useLibrary 'org.apache.http.legacy'
     compileSdkVersion 23
-    buildToolsVersion "24.0.3"
+    buildToolsVersion "24.0.0"
 
     defaultConfig {
-        applicationId "cn.cnu.http"
-        minSdkVersion 14
+        applicationId "cn.cnu.getmyphonenumber"
+        minSdkVersion 15
         targetSdkVersion 23
         versionCode 1
         versionName "1.0"
-        jackOptions {
-            enabled true
-        }
-    }
-    compileOptions{
-        sourceCompatibility JavaVersion.VERSION_1_8
-        targetCompatibility JavaVersion.VERSION_1_8
     }
     buildTypes {
         release {
@@ -31,5 +23,4 @@ dependencies {
     compile fileTree(dir: 'libs', include: ['*.jar'])
     testCompile 'junit:junit:4.12'
     compile 'com.android.support:appcompat-v7:23.4.0'
-
 }

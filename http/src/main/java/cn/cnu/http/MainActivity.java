@@ -25,9 +25,16 @@ public class MainActivity extends AppCompatActivity {
         });
         webView.loadUrl("http://www.baidu.com");
     }
-    public void next(View v){
-        Intent intent=new Intent(this,HttpURLConnectionActivity.class);
+
+    public void next(View v) {
+        Intent intent = new Intent(this, HttpURLConnectionActivity.class);
         startActivity(intent);
     }
 
+    //lambda表达式
+    private void fun() {
+        new Thread(() -> {
+
+        }).start();
+    }
 }
