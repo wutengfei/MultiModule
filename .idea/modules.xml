@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/MultiModule.iml" filepath="$PROJECT_DIR$/MultiModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/asyncload/asyncload.iml" filepath="$PROJECT_DIR$/asyncload/asyncload.iml" />
       <module fileurl="file://$PROJECT_DIR$/contentprovider/contentprovider.iml" filepath="$PROJECT_DIR$/contentprovider/contentprovider.iml" />
       <module fileurl="file://$PROJECT_DIR$/contentresolver/contentresolver.iml" filepath="$PROJECT_DIR$/contentresolver/contentresolver.iml" />
       <module fileurl="file://$PROJECT_DIR$/databasetest/databasetest.iml" filepath="$PROJECT_DIR$/databasetest/databasetest.iml" />
