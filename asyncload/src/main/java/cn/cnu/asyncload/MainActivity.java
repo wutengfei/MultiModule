@@ -62,7 +62,6 @@ public class MainActivity extends AppCompatActivity {
         NewsBean newsBean = gson.fromJson(jsonString, NewsBean.class);//需要将Gosn的包导入进project中。
         return newsBean.getData();
     }
-
     /**
      * 怎样将一个url（也可以说是一个InputStream）转换为一个json字符串信息。
      *
